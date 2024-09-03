@@ -1,4 +1,4 @@
-#Portifólio-Pessoal
+Portifólio Pessoal
 
 Portifólio voltado para apresentação de projetos pessoais e informações sobre mim.
 
